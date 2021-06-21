@@ -33,6 +33,16 @@ set SPOTIPY_CLIENT_ID=suachave
 set SPOTIPY_CLIENT_SECRET=suachave
 ```
 
+## Rodando o script
+
+Digite no console: 
+
+```python
+python main.py
+```
+
+Em seguida, irá perguntar o nome e a descrição da playlist. Após isso, você deverá incluir os nomes das músicas e após terminar digite 'fim' quando tiver adicionado todas as músicas.
+
 
 ## Contribuições
 
